@@ -1,0 +1,12 @@
+body {
+    background-color: aquamarine;
+}
+
+
+#grid-floats {
+    display:flex;
+}
+li {
+    border:solid 1px black;
+    flex-direction: row;
+}
